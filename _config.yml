@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "A bit of Security here and there"
-title_separator          : "|"
+title                    : "hum4nG0D.github.io"
+title_separator          : #
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "hum4nG0D"
 description              : "hum4nG0D, cyber security, infosec, hackthebox, offsec, oscp, ceh, penetration testing, pentesting, pen-testing, red teaming"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "hum4nG0D"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Pentester"
+  bio              : "Cyber security blog. A bit of security here and there."
   location         : "Singapore"
   email            :
   links:
