@@ -115,7 +115,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hum4nG0D"
-    - label: "Instagram"
+    - label: "Support Me"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
@@ -134,7 +134,7 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
