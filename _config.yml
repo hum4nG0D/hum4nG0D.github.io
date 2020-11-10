@@ -115,9 +115,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hum4nG0D"
-    - label: "Support Me"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Buy me a coffee"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://buymeacoff.ee/hum4nG0D"
 
 # Site Footer
 footer:
