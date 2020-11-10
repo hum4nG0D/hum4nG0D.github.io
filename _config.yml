@@ -83,6 +83,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.twitter.com/hum4nG0D"
+    - "https://github.com/hum4nG0D"
+    - "https://www.hackthebox.eu/profile/217797"
+    - "https://hum4nG0D.github.io"
 
 # Analytics
 analytics:
