@@ -100,18 +100,12 @@ author:
   location         : "Singapore"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
     - label: "Hack the box"
       icon: "fab fa-fw fa-codepen"
       url: "https://www.hackthebox.eu/profile/217797"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/hum4nG0D"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hum4nG0D"
@@ -122,24 +116,15 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Hack the box"
+      icon: "fab fa-fw fa-codepen"
+      url: "https://www.hackthebox.eu/profile/217797"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/hum4nG0D"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hum4nG0D"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
 # Reading Files
