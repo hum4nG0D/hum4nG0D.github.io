@@ -273,3 +273,4 @@ defaults:
       share: true
       related: true
       show_date: true
+      featured-image: true
