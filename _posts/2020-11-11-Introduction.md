@@ -2,6 +2,8 @@
 title: "Introduction"
 subtitle: "Introduction to what this blog is about."
 description: "Introduction to what this blog is about."
+featured-image: /assets/images/hola.png
+featured-image-alt: "Hola"
 ---
 
 ## hum4nG0D.github.io
