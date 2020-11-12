@@ -1,6 +1,7 @@
 ---
 title: "Introduction"
 subtitle: "Introduction to what this blog is about."
+description: "Introduction to what this blog is about."
 ---
 
 ## hum4nG0D.github.io
