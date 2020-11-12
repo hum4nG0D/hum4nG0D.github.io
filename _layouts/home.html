@@ -16,7 +16,7 @@ layout: archive
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
     {% include archive-single.html type=entries_layout %}
-    {% if post.featured-image %}<img src="{% image=post.featured-image | relative_url %}" alt="">{% endif %}
+    <img src="{% post.featured-image | relative_url %}" alt="">
   {% endfor %}
 </div>
 
