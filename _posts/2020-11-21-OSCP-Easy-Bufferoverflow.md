@@ -13,11 +13,11 @@ tags: [windows, oscp, exploit, exploit development, buffer overflow, linux]
 
 For preparing OSCP Buffer Overflow, you just need a simple script that can fuzz and send buffer. That's it. You don't need to know a lot about python scripting nor complicated stuff. This is the most effective way and time efficient way I can find. If you practice enough, you can beat buffer overflow machine in just 30 minutes. So you can have lots of time for the other 4 machines. If you still need help, feel free to reach out to me on twitter.
 
-Free TryHackMe Room: https://tryhackme.com/room/bufferoverflowprep
+Free TryHackMe Room: [TryHackMe/bufferoverflow](https://tryhackme.com/room/bufferoverflowprep)
 
 Thanks to Tib3rius for this awesome tryhackme room. 
 
-Here is the link for all the scripts: https://github.com/hum4nG0D/OSCP_Bufferovrflw_Prep
+Here is the link for all the scripts: [hum4nG0D/OSCP_Bufferoverflow_Prep](https://github.com/hum4nG0D/OSCP_Bufferovrflw_Prep)
 
 Connecting to the machine:
 
@@ -29,6 +29,8 @@ Connecting to the machine:
 
 
 
+
+
 ### 01 Fuzzing
 
 ```c++
@@ -36,6 +38,8 @@ Connecting to the machine:
 ```
 
 Press `Ctrl + C` after the application crushed. Note down the byte number. (Example: Crushed at 2000)
+
+
 
 
 
@@ -57,6 +61,8 @@ Find EIP normal pattern. (Example: EIP contains normal pattern : 0x42987857 (off
 
 
 
+
+
 ### 03 Controlling EIP
 
 ```c++
@@ -64,6 +70,8 @@ Find EIP normal pattern. (Example: EIP contains normal pattern : 0x42987857 (off
 ```
 
 You should see `424242` for EIP.
+
+
 
 
 
@@ -107,6 +115,8 @@ Generating byte array with bad characters removed. Update the script and run aga
 
 
 
+
+
 ### 05 Finding a Jump Point
 
 ```c++
@@ -120,6 +130,8 @@ Set the break point by entering the pointer address and pressing `F2`.
 ```
 
 If the pointer address stop at EIP. You are good to go.
+
+
 
 
 
