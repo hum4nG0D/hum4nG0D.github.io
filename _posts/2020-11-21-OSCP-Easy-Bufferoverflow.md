@@ -3,13 +3,13 @@ title: "Easy OSCP Bufferoverflow Preparation"
 subtitle: "Easy, simple yet effective and working OSCP Buffer Overflow preparation"
 description: "Easy, simple yet effective and working OSCP Buffer Overflow preparation."
 excerpt: "Easy, simple yet effective and working OSCP Buffer Overflow preparation."
-header-img: /assets/images/ocsp_bufferoverflow/feature.png
-featured-image: /assets/images/ocsp_bufferoverflow/feature.png
+header-img: /assets/images/oscp_bufferoverflow/feature.png
+featured-image: /assets/images/oscp_bufferoverflow/feature.png
 featured-image-alt: "OSCP Buffer Overflow"
 tags: [windows, oscp, exploit, exploit development, buffer overflow, linux]
 ---
 
-![OSCP Buffer Overflow Preparation](/assets/images/ocsp_bufferoverflow/feature.png)
+![OSCP Buffer Overflow Preparation](/assets/images/oscp_bufferoverflow/feature.png)
 
 For preparing OSCP Buffer Overflow, you just need a simple script that can fuzz and send buffer. That's it. You don't need to know a lot about python scripting nor complicated stuff. This is the most effective way and time efficient way I can find. If you practice enough, you can beat buffer overflow machine in just 30 minutes. So you can have lots of time for the other 4 machines. If you still need help, feel free to reach out to me on twitter.
 
@@ -75,7 +75,7 @@ Setting up mona working directory:
 > !mona config -set workingfolder c:\mona\%p
 ```
 
-![Mona Working Directory](/assets/images/ocsp_bufferoverflow/workingdir.png)
+![Mona Working Directory](/assets/images/oscp_bufferoverflow/workingdir.png)
 
 Generating byte array:
 
@@ -83,7 +83,7 @@ Generating byte array:
 > !mona bytearray -b "\x00"
 ```
 
-![Generating Bytearray - Mona](/assets/images/ocsp_bufferoverflow/bytearray.png)
+![Generating Bytearray - Mona](/assets/images/oscp_bufferoverflow/bytearray.png)
 
 Running the script:
 
@@ -103,7 +103,7 @@ Generating byte array with bad characters removed. Update the script and run aga
 > !mona compare -f C:\mona\oscp\bytearray.bin -a 03B2FF88
 ```
 
-![Unmodified](/assets/images/ocsp_bufferoverflow/unmodified.png)
+![Unmodified](/assets/images/oscp_bufferoverflow/unmodified.png)
 
 
 
