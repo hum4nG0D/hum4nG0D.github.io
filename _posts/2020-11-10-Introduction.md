@@ -1,6 +1,7 @@
 ---
 title: "Introduction"
 subtitle: "Introduction to what this blog is about."
+date: "2020-11-10"
 description: "Introduction to what this blog is about."
 featured-image: /assets/images/hola.png
 featured-image-alt: "Hola"
