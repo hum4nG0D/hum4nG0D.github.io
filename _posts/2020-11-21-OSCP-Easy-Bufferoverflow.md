@@ -17,14 +17,14 @@ Free TryHackMe Room: https://tryhackme.com/room/bufferoverflowprep
 
 Thanks to Tib3rius for this awesome tryhackme room. 
 
-Here is the link for all the scripts: https://github.com/hum4nG0D/OSCP_Prep
+Here is the link for all the scripts: https://github.com/hum4nG0D/OSCP_Bufferovrflw_Prep
 
 Connecting to the machine:
 
 ```
 > xfreerdp /u:admin /p:password /cert:ignore /v:192.168.10.10
   
-> git clone https://github.com/hum4nG0D/OSCP_Prep.git
+> git clone https://github.com/hum4nG0D/OSCP_Bufferovrflw_Prep.git
 ```
 
 
