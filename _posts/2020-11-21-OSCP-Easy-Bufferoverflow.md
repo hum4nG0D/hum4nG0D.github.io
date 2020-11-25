@@ -121,6 +121,8 @@ Set the break point by entering the pointer address and pressing `F2`.
 
 
 
+Make sure to edit the script and add the pointer address in reverse order. Then run the script.
+
 ```c++
 > ./05-pointer.py
 ```
