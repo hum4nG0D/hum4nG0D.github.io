@@ -27,7 +27,9 @@ I will take overflow1 from THM bufferoverflow room as an example. So fire up the
 > git clone https://github.com/hum4nG0D/OSCP_Bufferovrflw_Prep.git
 ```
 
+<br>
 
+<br>
 
 ### 01 Fuzzing
 
@@ -37,7 +39,9 @@ I will take overflow1 from THM bufferoverflow room as an example. So fire up the
 
 Press `Ctrl + C` after the application crushed. Note down the byte number. (Example: Crushed at 2000)
 
+<br>
 
+<br>
 
 ### 02 Finding Offset
 
@@ -55,7 +59,9 @@ At this point, I'm assuming you have Mona setup.
 
 Find EIP normal pattern. (Example: EIP contains normal pattern : 0x42987857 (offset 1876))
 
+<br>
 
+<br>
 
 ### 03 Controlling EIP
 
@@ -65,7 +71,9 @@ Find EIP normal pattern. (Example: EIP contains normal pattern : 0x42987857 (off
 
 You should see `424242` for EIP.
 
+<br>
 
+<br>
 
 ### 04 Finding Bad Characters
 
@@ -75,7 +83,11 @@ Setting up mona working directory:
 > !mona config -set workingfolder c:\mona\%p
 ```
 
+<br>
+
 ![Mona Working Directory](/assets/images/oscp_bufferoverflow/workingdir.png)
+
+<br>
 
 Generating byte array:
 
@@ -83,7 +95,11 @@ Generating byte array:
 > !mona bytearray -b "\x00"
 ```
 
+<br>
+
 ![Generating Bytearray - Mona](/assets/images/oscp_bufferoverflow/bytearray.png)
+
+<br>
 
 Running the script:
 
@@ -103,9 +119,13 @@ Generating byte array with bad characters removed. Update the script and run aga
 > !mona compare -f C:\mona\oscp\bytearray.bin -a 03B2FF88
 ```
 
+<br>
+
 ![Unmodified](/assets/images/oscp_bufferoverflow/unmodified.png)
 
+<br>
 
+<br>
 
 ### 05 Finding a Jump Point
 
@@ -117,9 +137,11 @@ Replace the bad characters with what you find:
 
 Set the break point by entering the pointer address and pressing `F2`.
 
+<br>
+
 ![Break point](/assets/images/oscp_bufferoverflow/pointer.png)
 
-
+<br>
 
 Make sure to edit the script and add the pointer address in reverse order. Then run the script.
 
@@ -129,7 +151,9 @@ Make sure to edit the script and add the pointer address in reverse order. Then 
 
 If the pointer address stop at EIP. You are good to go.
 
+<br>
 
+<br>
 
 ### 06 Popping Calculator
 
