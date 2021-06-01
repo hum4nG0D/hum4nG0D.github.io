@@ -29,8 +29,6 @@ I will take overflow1 from THM bufferoverflow room as an example. So fire up the
 
 <br>
 
-<br>
-
 ### 01 Fuzzing
 
 ```c++
@@ -38,8 +36,6 @@ I will take overflow1 from THM bufferoverflow room as an example. So fire up the
 ```
 
 Press `Ctrl + C` after the application crushed. Note down the byte number. (Example: Crushed at 2000)
-
-<br>
 
 <br>
 
@@ -61,8 +57,6 @@ Find EIP normal pattern. (Example: EIP contains normal pattern : 0x42987857 (off
 
 <br>
 
-<br>
-
 ### 03 Controlling EIP
 
 ```c++
@@ -70,8 +64,6 @@ Find EIP normal pattern. (Example: EIP contains normal pattern : 0x42987857 (off
 ```
 
 You should see `424242` for EIP.
-
-<br>
 
 <br>
 
@@ -83,8 +75,6 @@ Setting up mona working directory:
 > !mona config -set workingfolder c:\mona\%p
 ```
 
-<br>
-
 ![Mona Working Directory](/assets/images/oscp_bufferoverflow/workingdir.png)
 
 <br>
@@ -94,8 +84,6 @@ Generating byte array:
 ```c++
 > !mona bytearray -b "\x00"
 ```
-
-<br>
 
 ![Generating Bytearray - Mona](/assets/images/oscp_bufferoverflow/bytearray.png)
 
@@ -119,11 +107,7 @@ Generating byte array with bad characters removed. Update the script and run aga
 > !mona compare -f C:\mona\oscp\bytearray.bin -a 03B2FF88
 ```
 
-<br>
-
 ![Unmodified](/assets/images/oscp_bufferoverflow/unmodified.png)
-
-<br>
 
 <br>
 
@@ -137,8 +121,6 @@ Replace the bad characters with what you find:
 
 Set the break point by entering the pointer address and pressing `F2`.
 
-<br>
-
 ![Break point](/assets/images/oscp_bufferoverflow/pointer.png)
 
 <br>
@@ -150,8 +132,6 @@ Make sure to edit the script and add the pointer address in reverse order. Then 
 ```
 
 If the pointer address stop at EIP. You are good to go.
-
-<br>
 
 <br>
 
