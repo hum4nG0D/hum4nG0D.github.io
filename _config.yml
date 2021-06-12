@@ -21,7 +21,7 @@ title                    : "hum4nG0D.github.io"
 title_separator          : #
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "hum4nG0D"
-description              : "hum4nG0D, cyber security, infosec, hackthebox, offsec, oscp, ceh, penetration testing, pentesting, pen-testing, red teaming"
+description              : "hum4nG0D, cyber security, infosec, hackthebox, offsec, oscp, ceh, penetration testing, pentesting, pen-testing, red teaming, OSCP, CEH"
 url                      : https://hum4nG0D.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : hum4nG0D/hum4nG0D.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "hum4nG0D"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cyber security blog. A bit of security here and there."
+  bio              : "OSCP | CEH Master | Cyber security blog. A bit of security here and there."
   location         : "Singapore"
   email            :
   links:
