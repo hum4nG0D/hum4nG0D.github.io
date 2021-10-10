@@ -77,6 +77,8 @@ Plug in your ATtiny85. When done, `Micronucleus done. Thank you!` message will s
 
 ![DIY RubberDucky](/assets/images/instantshell/shell04.png)
 
+> Always remember to unplug the Digispark before hitting upload and plug it in when the Arduino IDE requests you to. If you get an error that assertion failed or micronucleus crashed during upload then you probably did not unplug your Digispark before uploading.
+
 Set up your listener:
 
 ```
