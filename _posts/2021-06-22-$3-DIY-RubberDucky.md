@@ -19,9 +19,9 @@ Buying options: [Lazada](https://www.lazada.sg/products/5pcs-attiny85-digispark-
 
 What you will need:
 
-Arduino IDE: https://www.arduino.cc/en/software
+Arduino IDE: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
 
-DigiSpark Driver: https://github.com/digistump/DigistumpArduino/releases
+DigiSpark Driver: [https://github.com/digistump/DigistumpArduino/releases](https://github.com/digistump/DigistumpArduino/releases)
 
 <br>
 
