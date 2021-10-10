@@ -15,7 +15,7 @@ Creating a disposable DIY rubberducky for your Red Team engagement or at least t
 
 Where to get DigiSpark ATtiny85:
 
-Buying options: [Lazada](https://www.lazada.sg/products/5pcs-attiny85-digispark-i2c-led-rev3-kickstarter-5v-iic-spi-usb-development-board-6-io-pins-for-arduino-i1978909921-s10693197391.html?spm=a2o42.searchlist.list.1.5ea345denMg8T0&search=1&freeshipping=1) S$15, [Amazon](https://www.amazon.com/Teyleten-Robot-Digispark-Kickstarter-Development/dp/B08HCR1CKX/ref=sr_1_2?dchild=1&keywords=AiTrip+5pcs+Digispark&qid=1633838802&sr=8-2) US$12
+Buying options: [Lazada](https://www.lazada.sg/products/5pcs-attiny85-digispark-i2c-led-rev3-kickstarter-5v-iic-spi-usb-development-board-6-io-pins-for-arduino-i1978909921-s10693197391.html?spm=a2o42.searchlist.list.1.5ea345denMg8T0&search=1&freeshipping=1) 5pcs - S$15, [Amazon](https://www.amazon.com/Teyleten-Robot-Digispark-Kickstarter-Development/dp/B08HCR1CKX/ref=sr_1_2?dchild=1&keywords=AiTrip+5pcs+Digispark&qid=1633838802&sr=8-2) 5pcs - US$12
 
 What you will need:
 
