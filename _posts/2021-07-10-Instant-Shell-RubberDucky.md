@@ -15,7 +15,7 @@ In the previous post, I've walked through how to set up a DIY RubberDucky. In th
 
 ### Payload
 
-Github: [https://github.com/hum4nG0D/Attiny85/tree/hum4ng0d/payloads/Instant%20Shell](https://github.com/hum4nG0D/Attiny85/tree/hum4ng0d/payloads/Instant%20Shell)
+Github: [https://github.com/MTK911/Attiny85/tree/master/payloads/Instant%20Shell](https://github.com/MTK911/Attiny85/tree/master/payloads/Instant%20Shell)
 
 Fire up your Arduino IDE. Make sure Digispark drivers are installed. If you haven't done so already, please see my previous post for the setup guide.
 
