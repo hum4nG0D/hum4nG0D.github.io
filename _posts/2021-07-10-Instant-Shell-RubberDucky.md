@@ -1,8 +1,8 @@
 ---
-title: "RubberDucky Instant Shell"
+title: "DIY RubberDucky Instant Shell"
 subtitle: "Get an install shell in less than 30 sec with a DIY RubberDucky."
 description: "Get an install shell in less than 30 sec with a DIY RubberDucky."
-excerpt: "Using DigiSpark's ATtiny85 to create an effective RubberDucky."
+excerpt: "Get an install shell in less than 30 sec with a DIY RubberDucky."
 header-img: /assets/images/rubberducky/rubberducky.png
 featured-image: /assets/images/rubberducky/rubberducky.png
 featured-image-alt: "Creating $3 DIY RubberDucky"
