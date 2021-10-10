@@ -33,7 +33,7 @@ Go to the above link and download the IDE for your enviroment. In this case I am
 
 After downloading, go ahead and install the IDE. After that download the driver and install it by running `Install Drivers.exe`. 
 
-![DIY RubberDucky](/assets/images/rubberducky/idedriver.png)
+![DIY RubberDucky](/assets/images/rubberducky/driverdownload.png)
 
 After installing the driver, you will be able to see the ATtiny85 as `Digispark Bootloader` in the Device Manager.
 
