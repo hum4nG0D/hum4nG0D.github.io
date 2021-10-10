@@ -88,3 +88,5 @@ If everything goes right, you will get a shell access in no time.
 ![DIY RubberDucky](/assets/images/instantshell/shell05.png)
 
 For any questions, feel free to reach out to me on twitter.
+
+> DISCLAIMER: All the software/scripts/applications/things in this repository are provided as is, without warranty of any kind. Use of these software/scripts/applications/things is entirely at your own risk. Creator of these softwares/scripts/applications/things is not responsible for any direct or indirect damage to your own or defiantly someone else's property resulting from the use of these software/scripts/applications/things. 
