@@ -1,5 +1,5 @@
 ---
-title: "DIY RubberDucky Steal Wifi Passwords"
+title: "DIY RubberDucky Wifi Passwords Stealer"
 subtitle: "Steal Wifi passwords with a DIY RubberDucky."
 description: "Steal Wifi passwords with a DIY RubberDucky."
 excerpt: "Steal Wifi passwords with a DIY RubberDucky."
