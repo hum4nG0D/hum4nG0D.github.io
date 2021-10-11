@@ -11,7 +11,7 @@ tags: [windows, oscp, exploit, exploit development, buffer overflow, linux]
 
 ![OSCP Buffer Overflow Preparation](/assets/images/oscp_bufferoverflow/feature.png)
 
-For preparing OSCP Buffer Overflow, you just need a simple script that can fuzz and send buffer. That's it. You don't need to know a lot about python scripting nor complicated stuff. This is the most effective way and time efficient way I can find. If you practice enough, you can beat buffer overflow machine in just 30 minutes. So you can have lots of time for the other 4 machines. If you still need help, feel free to reach out to me on twitter.
+For preparing OSCP Buffer Overflow, you just need a simple script that can fuzz and send buffer. That's it. You don't need to know a lot about python scripting nor complicated stuff. This is the most effective way and time efficient way. If you practice enough, you can beat buffer overflow machine in just 30 minutes. So you can have lots of time for the other 4 machines. If you still need help, feel free to reach out to me on twitter.
 
 Free TryHackMe Room: [TryHackMe/bufferoverflow](https://tryhackme.com/room/bufferoverflowprep)
 
