@@ -8,14 +8,14 @@ $text-color: #343434 !default;
 $muted-text-color: #8e8b82 !default;
 $primary-color: #343434 !default;
 $border-color: #e9dcbe !default;
-$footer-background-color: #E2E3E2; /* #e9dcbe !default; */
-$link-color: #2d862d !default;
+$footer-background-color: #e9dcbe !default;
+$link-color: #343434 !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 /* dirt syntax highlighting (base16) */
-$base00: #24292e !default;
+$base00: #231e18 !default;
 $base01: #302b25 !default;
 $base02: #48413a !default;
 $base03: #9d8b70 !default;

@@ -7,7 +7,7 @@
   margin-left: auto;
   margin-right: auto;
   padding-left: 1em;
-  padding-right: 0em;
+  padding-right: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 100%;
@@ -39,12 +39,12 @@ body {
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: 3px;
+    padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: 3px;
+    padding-right: $right-sidebar-width;
   }
 
   .page__inner-wrap {
@@ -71,6 +71,11 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+  }
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -108,7 +113,7 @@ body {
   p,
   li,
   dl {
-    font-size: 0.8em;
+    font-size: 1em;
   }
 
   /* paragraph indents */
@@ -152,7 +157,7 @@ body {
 
   /* blockquote citations */
   blockquote + .small {
-    margin-top: -1em;
+    margin-top: -1.5em;
     padding-left: 1.25rem;
   }
 }
@@ -180,7 +185,7 @@ body {
     animation-delay: 0.25s;
 
     a {
-      color: #2d862d;
+      color: #fff;
     }
 
     .wrapper {
@@ -240,7 +245,7 @@ body {
   }
 
   a {
-    color: #2d862d;
+    color: #fff;
     text-decoration: none;
   }
 }
