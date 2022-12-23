@@ -63,10 +63,17 @@ Like so:
 
 1. Create an account for ChatGPT. 
 2. Obtain the API Key.
+3. install `openai` module.
 
 Once you have the required information, just save the api key to a text file and put the path inside the script.
 
 ### Full script
+
+Installing openai module.
+
+`> python3 -m pip install openai`
+
+Update the api key path and save the script.
 
 `> python3 chatGPT.py` 
 
