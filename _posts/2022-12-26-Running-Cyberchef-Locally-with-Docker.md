@@ -9,13 +9,13 @@ featured-image-alt: "Running Cyberchef Locally with Docker"
 tags: [command line, cyberchef, linux, windows, docker, python]
 ---
 
-![ChatGPT](/assets/images/chatgpt/chatgpt.jpg)
+![Cyberchef](/assets/images/cyberchef/cyberchef.png)
 
-Cyberchef is a go-to tool for me and it has been for a good reason. It's easily accessible via the web by just simply going to https://cyberchef.org. 
+Cyberchef is a go-to tool for me and it has been for a good reason. It's easily accessible via the web by just simply going to [https://cyberchef.org](https://cyberchef.org). 
 
 Or you can just download the zip file and host locally. Usually the Chrome extension 200OK does the job for me.
 
-Link to Chrome extension 200OK!: https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
+Link to Chrome extension 200OK!: [https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
 
 ![200ok](/assets/images/cyberchef/200ok.png)
 
