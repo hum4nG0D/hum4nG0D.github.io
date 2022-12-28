@@ -19,6 +19,8 @@ Link to Chrome extension 200OK!: [https://chrome.google.com/webstore/detail/web-
 
 ![200ok](/assets/images/cyberchef/200ok.png)
 
+<br>
+
 However, for ease of access, I created a docker image in which it will host the static cyberchef site with Flask. All you need to do is run the following command:
 
 ```bash
@@ -31,6 +33,8 @@ sudo docker run -d -p 8080:8080 humangod/cyberchef
 ![docker-pull](/assets/images/cyberchef/docker-pull.png)
 
 ![docker-run](/assets/images/cyberchef/docker-run.png)
+
+<br>
 
 If you don't have docker, you can just install on debian, ubuntu by running:
 
