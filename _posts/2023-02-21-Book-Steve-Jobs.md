@@ -6,7 +6,7 @@ excerpt: "A reflection on Walter Isaacson’s biography of Steve Jobs and the po
 header-img: /assets/images/stevejobs/stevejobs.png
 featured-image: /assets/images/stevejobs/stevejobs.png
 featured-image-alt: "Book: Steve Jobs by Walter Isaacson"
-tags: [Book, audiobook, Steve Jobs, Reality Distortion, Simplicity, Visionary]
+tags: [books, audiobooks, Steve Jobs, reality distortion, simplicity, visionary]
 ---
 
 ![Stevejobs](/assets/images/stevejobs/stevejobs.png)

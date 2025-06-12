@@ -6,7 +6,7 @@ excerpt: "What the world’s most famous hacker taught me about digital privacy,
 header-img: /assets/images/invisibility/invisibility.png
 featured-image: /assets/images/invisibility/invisibility.png
 featured-image-alt: "Book: The Art of Invisibility by Kevin Mitnick"
-tags: [Books, audiobooks, anonymity, tor]
+tags: [books, audiobooks, anonymity, tor]
 ---
 
 ![Invisibility](/assets/images/invisibility/invisibility.png)
