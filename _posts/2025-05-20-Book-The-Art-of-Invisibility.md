@@ -6,7 +6,7 @@ excerpt: "Book: The Art of Invisibility by Kevin Mitnick"
 header-img: /assets/images/invisibility/invisibility.png
 featured-image: /assets/images/invisibility/invisibility.png
 featured-image-alt: "Book: The Art of Invisibility by Kevin Mitnick"
-tags: [Book, audiobook, anonymity, tor]
+tags: [Books, audiobooks, anonymity, tor]
 ---
 
 ![Invisibility](/assets/images/invisibility/invisibility.png)
@@ -17,7 +17,7 @@ Recently, during my daily drives to and from work or during workout sessions, I 
 
 If the name rings a bell, it should—Kevin Mitnick was once the world’s most wanted hacker at some point by the FBI turned a cybersecurity expert and industry leader, he shares eye-opening insights into digital privacy, surveillance, and how to maintain anonymity in our hyper-connected world.
 
-![audiobook](/assets/images/invisibility/audiobook.jpeg)
+![audiobook](/assets/images/invisibility/audiobook.png)
 
 ### Key Takeaways
 
