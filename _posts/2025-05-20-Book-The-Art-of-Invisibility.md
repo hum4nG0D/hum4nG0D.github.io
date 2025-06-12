@@ -1,8 +1,8 @@
 ---
 title: "Book: The Art of Invisibility by Kevin Mitnick"
-subtitle: "Book: The Art of Invisibility by Kevin Mitnick"
-description: "Book: The Art of Invisibility by Kevin Mitnick"
-excerpt: "Book: The Art of Invisibility by Kevin Mitnick"
+subtitle: "What the world’s most famous hacker taught me about digital privacy, online anonymity, and why it all matters more than ever."
+description: "What the world’s most famous hacker taught me about digital privacy, online anonymity, and why it all matters more than ever."
+excerpt: "What the world’s most famous hacker taught me about digital privacy, online anonymity, and why it all matters more than ever."
 header-img: /assets/images/invisibility/invisibility.png
 featured-image: /assets/images/invisibility/invisibility.png
 featured-image-alt: "Book: The Art of Invisibility by Kevin Mitnick"
