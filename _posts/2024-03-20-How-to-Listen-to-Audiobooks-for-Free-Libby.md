@@ -21,18 +21,20 @@ Libby is a free app by OverDrive that lets you borrow eBooks, audiobooks, and ev
 
 ### 🔑 My current setup: 3 Libraries (or more) in One App
 
+![Libby List](/assets/images/libby/libby-list.png)
+
 Right now, I’ve got **three** libraries linked to my Libby account:
 
 1. **National Library Board (NLB), Singapore**
-    
+   
     Yep, even though I’ve moved away, my old NLB account still works. It’s loaded with a solid collection of both local and international titles.
     
 2. **Department of Defense (DoD) MWR Digital Library**
-    
+   
     If you're affiliated with the military, this is a goldmine. Tons of technical books, leadership reads, self-help, and even bestsellers, free for service members and families.
     
 3. **My Local County Library (US)**
-    
+   
     Most U.S. public libraries now support Libby. All you need is a library card, and you're in. I was surprised at how many audiobooks and Kindle-compatible eBooks were available locally.
     
 
