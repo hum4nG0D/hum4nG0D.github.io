@@ -162,6 +162,8 @@ Assuming your domain is managed by Cloudflare:
 
 ![Cloudflare DNS](/assets/images/cloudflare-vnc/dnscname.png)
 
+### 3. Testing
+
 - Accessing via vnc.your-domain.com will prompt you with Cloudflare Access authentication screen. You will see whichever authentication method you choose during setup. 
 
 ![Cloudflare DNS](/assets/images/cloudflare-vnc/cloudflareauth.png)
