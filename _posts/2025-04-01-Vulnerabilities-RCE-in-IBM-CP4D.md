@@ -24,7 +24,7 @@ Given the extended delay and the lack of response from IBM, this disclosure is b
 - Vulnerability discovered: April 2023
 - Reported to IBM: April 2023
 - Follow-ups: Multiple (no CVE issued)
-- Public disclosure: June 2025
+- Public disclosure: April 2025
 
 ---
 
