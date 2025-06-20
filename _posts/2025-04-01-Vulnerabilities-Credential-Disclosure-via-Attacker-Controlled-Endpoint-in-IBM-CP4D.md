@@ -59,7 +59,7 @@ A **credential disclosure vulnerability** exists in IBM Cloud Pak for Data, spec
 
 ------
 
-### **Vulnerability **Type:**
+### **Vulnerability **Type:
 
 - **CWE-522**: Insufficiently Protected Credentials
 - **CWE-441**: Unintended Proxy or Credential Forwarding
