@@ -1,11 +1,11 @@
 ---
 title: "Cloudflare Project: Render VNC in Browser with Secure Access"
-subtitle: "A reflection on Walter Isaacson’s biography of Steve Jobs and the powerful lessons it offers on passion, simplicity, and changing the world."
-description: "A reflection on Walter Isaacson’s biography of Steve Jobs and the powerful lessons it offers on passion, simplicity, and changing the world."
-excerpt: "A reflection on Walter Isaacson’s biography of Steve Jobs and the powerful lessons it offers on passion, simplicity, and changing the world."
+subtitle: "Rendering VNC Session in a Browser with Cloudflare Access Zero Trust Rules"
+description: "Rendering VNC Session in a Browser with Cloudflare Access Zero Trust Rules"
+excerpt: "Rendering VNC Session in a Browser with Cloudflare Access Zero Trust Rules"
 header-img: /assets/images/cloudflare-vnc/rendervnc.png
 featured-image: /assets/images/cloudflare-vnc/rendervnc.png
-featured-image-alt: "Book: Steve Jobs by Walter Isaacson"
+featured-image-alt: "Cloudflare Project: Render VNC in Browser with Secure Access"
 tags: [Cloudflare, Cloudflare DNS, Cloudflare Access, VNC, VNC in Browser]
 ---
 
@@ -22,7 +22,7 @@ Cloudflare offers:
 
 In this post, we’ll walk through setting up a **lightweight Kali Linux VNC server**, tunneling it securely using **Cloudflared**, and rendering it in a browser through **Cloudflare Access**.
 
----
+
 
 ## Pre-requisites:
 
@@ -87,7 +87,7 @@ Start the vncserver:
 vncserver :1 geometry 1440x900 -depth 24
 ```
 
----
+
 
 ## Cloudflared: Creating and Running the Tunnel
 
@@ -128,7 +128,7 @@ cloudflared tunnel run <Tunne Name>
 
 ![Cloudflare Tunnel](/assets/images/cloudflare-vnc/tunnel.png)
 
----
+
 
 ## Cloudflare Configuration: Secure Your VNC with Access and DNS
 
@@ -162,9 +162,15 @@ Assuming your domain is managed by Cloudflare:
 
 ![Cloudflare DNS](/assets/images/cloudflare-vnc/dnscname.png)
 
+- Accessing via vnc.your-domain.com will prompt you with Cloudflare Access authentication screen. You will see whichever authentication method you choose during setup. 
+
 ![Cloudflare DNS](/assets/images/cloudflare-vnc/cloudflareauth.png)
 
+- After that, you will be prompted to enter vncserver password.
+
 ![Cloudflare DNS](/assets/images/cloudflare-vnc/vncauth.png)
+
+- VNC session rendered in browser
 
 ![Cloudflare DNS](/assets/images/cloudflare-vnc/vncinbrowser.png)
 
