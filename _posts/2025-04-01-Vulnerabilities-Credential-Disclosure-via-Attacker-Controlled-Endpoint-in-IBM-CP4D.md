@@ -55,7 +55,7 @@ A **credential disclosure vulnerability** exists in IBM Cloud Pak for Data, spec
    - The client connects
    - The **username and password are received in plaintext**
 
-![CP4D Credential Leak via Attacker Controled Endpoint](/assets/images/cp4d/cred-leak.png)
+![CP4D Credential Disclosure via Attacker Controled Endpoint](/assets/images/cp4d/cred-leak.png)
 
 ------
 
