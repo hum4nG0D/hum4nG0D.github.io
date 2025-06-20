@@ -68,7 +68,7 @@ A **stored cross-site scripting (XSS)** vulnerability exists in the **Customizat
 
 6. **Paste** the image URL in a new browser tab
 
-7. The <script> inside the SVG executes immediately in the browser, demonstrating a persistent **stored XSS** vector.
+7. The `<script>` inside the SVG executes immediately in the browser, demonstrating a persistent **stored XSS** vector.
 
 ![CP4D Stored XSS](/assets/images/cp4d/stored-xss-1.png)
 
