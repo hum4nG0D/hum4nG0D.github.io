@@ -44,7 +44,7 @@ Other versions may also be affected.
 
 ### **Summary:**
 
-A **stored cross-site scripting (XSS)** vulnerability exists in the **Customization page** of IBM CP4D and IBM Event Streams. The application allows the upload of **SVG images** without sanitization, enabling embedded <script> tags to be executed when the image is rendered in the UI or accessed directly via URL. 
+A **stored cross-site scripting (XSS)** vulnerability exists in the **Customization page** of IBM CP4D and IBM Event Streams. The application allows the upload of **SVG images** without sanitization, enabling embedded `<script>` tags to be executed when the image is rendered in the UI or accessed directly via URL. 
 
 ------
 
@@ -78,7 +78,7 @@ A **stored cross-site scripting (XSS)** vulnerability exists in the **Customizat
 
 ------
 
-### **Vulnerability **Type:**
+### **Vulnerability **Type:
 
 - **CWE-79**: Improper Neutralization of Input During Web Page Generation (‘Cross-site Scripting’)
 - **CWE-434**: Unrestricted Upload of File with Dangerous Type
