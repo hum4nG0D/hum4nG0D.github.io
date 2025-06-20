@@ -44,7 +44,7 @@ A **credential disclosure vulnerability** exists in IBM Cloud Pak for Data, spec
 
 ------
 
-### **Steps to **Reproduce:**
+### **Steps to **Reproduce:
 
 1. Log in as a user with **“Editor” role** access in a project
 2. Navigate to: Project > Data access > Connections
