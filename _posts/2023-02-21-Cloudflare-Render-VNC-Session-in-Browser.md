@@ -190,6 +190,8 @@ Assuming your domain is managed by Cloudflare:
 | **Mobile Friendly**       | ✅ (browser-based)     | ✅                       |
 | **Audit Logs / Identity** | ✅ Integrated          | ❌ (requires add-ons)    |
 
+
+
 With **zero cost**, **zero port forwarding**, and **zero hassle**, Cloudflare offers an elegant way to run your own browser-based remote desktop securely. Whether you’re a hacker working in Kali, a sysadmin managing servers, or a tinkerer building a home lab, this is one project worth trying.
 
 ## References
