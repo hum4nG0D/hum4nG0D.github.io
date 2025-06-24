@@ -70,7 +70,7 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
+x:
   username               : "hum4nG0D"
 facebook:
   username               :
@@ -126,7 +126,7 @@ footer:
     - label: "Hack the box"
       icon: "fab fa-fw fa-codepen"
       url: "https://www.hackthebox.eu/profile/217797"
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/hum4nG0D"
     - label: "GitHub"
