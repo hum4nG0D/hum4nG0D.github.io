@@ -83,7 +83,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.twitter.com/hum4nG0D"
+    - "https://www.x.com/hum4nG0D"
     - "https://github.com/hum4nG0D"
     - "https://app.hackthebox.com/profile/217797"
     - "https://hum4nG0D.github.io"
@@ -109,10 +109,10 @@ author:
       url: "https://www.linkedin.com/in/louishtoo"
     - label: "Hack the box"
       icon: "fab fa-fw fa-codepen"
-      url: "https://www.hackthebox.eu/profile/217797"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/hum4nG0D"
+      url: "https://app.hackthebox.eu/profile/217797"
+    - label: "X"
+      icon: "fab fa-fw fa-x"
+      url: "https://x.com/hum4nG0D"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hum4nG0D"
