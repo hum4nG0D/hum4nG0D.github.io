@@ -104,6 +104,9 @@ author:
   location         : "United States"
   email            :
   links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/louishtoo"
     - label: "Hack the box"
       icon: "fab fa-fw fa-codepen"
       url: "https://www.hackthebox.eu/profile/217797"
