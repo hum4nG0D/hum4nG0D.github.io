@@ -110,15 +110,15 @@ author:
     - label: "Hack the box"
       icon: "fab fa-fw fa-codepen"
       url: "https://app.hackthebox.eu/profile/217797"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/hum4nG0D"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hum4nG0D"
     - label: "Buy me a coffee"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://buymeacoff.ee/hum4nG0D"
+    - label: ""
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/hum4nG0D"
 
 # Site Footer
 footer:
@@ -129,15 +129,16 @@ footer:
     - label: "Hack the box"
       icon: "fab fa-fw fa-codepen"
       url: "https://www.hackthebox.eu/profile/217797"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/hum4nG0D"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hum4nG0D"
     - label: "Buy me a coffee"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://buymeacoff.ee/hum4nG0D"
+    - label: ""
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/hum4nG0D"
 
 
 # Reading Files
