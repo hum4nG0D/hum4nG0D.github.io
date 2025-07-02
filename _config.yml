@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "hum4nG0D"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Security Researcher, Hacker, OSCP, CEH Master, Blogger"
+  bio              : "Security Researcher, Hacker, OSCP, Blogger"
   location         : "United States"
   email            :
   links:
