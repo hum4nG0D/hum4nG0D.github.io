@@ -13,12 +13,11 @@ tags: [Apache Guacamole, Cloudron, Digitalocean, Cloudflare, Cloudflare Zero Tru
 
 I recently tried out [Apache Guacamole](https://guacamole.apache.org/) to enable browser-based rendering of SSH, RDP, and VNC sessions, and here’s how I made it all work seamlessly with Cloudron, Cloudflare, and a DigitalOcean VM.
 
-While [Cloudflare Access](https://developers.cloudflare.com/cloudflare-one/) offers Zero Trust connectivity and works great for HTTP-based apps, it doesn’t currently support browser rendering for RDP or SSH. So for this project, I opted to use Guacamole as the rendering engine.
-
-Instead of using Cloudflare Tunnel, we’ll lock down our server using strict firewall rules and Cloudflare’s IP range to ensure only DNS-routed traffic is allowed—boosting both security and simplicity.
+While [Cloudflare Access](https://developers.cloudflare.com/cloudflare-one/) offers Zero Trust connectivity and works great for HTTP-based apps, it doesn’t currently support browser rendering for RDP. Since connecting back to home servers requires port forwarding—something I want to avoid exposing—we’ll host Guacamole on a **DigitalOcean VM** instead. Although using **Cloudflare Tunnel** would make things even simpler, especially for securing remote services without opening ports, we’re intentionally **not using Cloudflare Tunnel** in this setup to demonstrate a more traditional approach. To enhance security, we’ll configure the **DigitalOcean firewall** to only allow traffic from **Cloudflare IPs**, preventing direct IP access. We’ll also manage DNS using Cloudflare and a general API token to automate everything through Cloudron.
 
 ## Project Stack
 
+- **Public Domain** – A public accessible domain 
 - **Guacamole** – Web-based remote desktop gateway
 - **Cloudron** – App platform that handles SSL, DNS, and app deployment
 - **DigitalOcean** – Cloud VM host
@@ -28,10 +27,8 @@ Instead of using Cloudflare Tunnel, we’ll lock down our server using strict fi
 
 ### **1.** **Create a DigitalOcean VM**
 
-Spin up a fresh Ubuntu VM (minimum 2GB RAM recommended). Make sure to:
-
-- Assign a static IP.
-- Note the IP for DNS setup.
+- Spin up a fresh Ubuntu VM (minimum 1GB RAM recommended).
+- Since we're using Cloudron, make sure to choose Ubuntu 24.04. 
 - Add SSH keys for secure login.
 
 ![Digitalocean](/assets/images/guacamole/do-stats.png)
@@ -51,7 +48,7 @@ chmod +x ./cloudron-setup
 ```
 
 - Follow the Cloudron web setup wizard once it’s installed.
-- Use your domain and subdomain (e.g., my.yourdomain.com) in the setup.
+- Use your domain and subdomain (e.g., `my.yourdomain.com`) in the setup.
 
 ### **3.** Cloudflare DNS Configuration
 
@@ -64,7 +61,7 @@ chmod +x ./cloudron-setup
 
 ### **4.** Install Guacamole on Cloudron
 
-- Head to the Cloudron App Store, should be https://my.<your-domain>.com
+- Head to the Cloudron App Store, should be `https://my.<your-domain>.com`
 
 ![Cloudron](/assets/images/guacamole/cloudron-login.png)
 
@@ -104,5 +101,7 @@ To prevent direct IP access:
   - Allow only incoming traffic from [Cloudflare IP ranges](https://www.cloudflare.com/ips/) on port 80 and 443 since Guacamole proxies SSH over HTTPS.
 
 ![Digitalocean](/assets/images/guacamole/do-firewall.png)
+
+
 
 Once everything is working, go back to Cloudflare and **enable the orange proxy** to benefit from CDN and DDoS protection. You now have a fully secure, browser-accessible remote SSH interface. While this Guacamole setup works well and provides browser-based access to SSH, RDP, and VNC, it’s not without its drawbacks. Guacamole still feels dated in terms of UI and overall user experience—it gets the job done, but lacks the polish and modern security features of newer solutions. That said, adding **Cloudflare Zero Trust** on top of this setup can significantly enhance security by introducing identity-based access controls, MFA, and logging. It’s a great way to lock down access without touching your firewall rules. Personally, I still prefer **Cloudflare’s simplicity and flexibility**. Although it doesn’t support browser-based RDP rendering just yet, using cloudflared or WARP, I can still securely access RDP sessions from anywhere without exposing ports directly to the internet. In the end, this project proves that while Guacamole offers a functional browser rendering experience, Cloudflare continues to lead with a more modern, secure, and easy-to-manage approach.
