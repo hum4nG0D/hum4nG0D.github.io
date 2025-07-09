@@ -4,7 +4,7 @@ description: "Using DigiSpark's ATtiny85 to create an effective RubberDucky."
 date: 2021-06-22
 categories: [PoC]
 tags: [windows, rubberducky, red team, penetration testing, physical security]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

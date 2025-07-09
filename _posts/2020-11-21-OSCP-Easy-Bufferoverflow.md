@@ -4,7 +4,7 @@ description: "Easy, simple yet effective and working OSCP Buffer Overflow prepar
 date: 2020-11-21
 categories: [PoC]
 tags: [windows, oscp, exploit, exploit development, buffer overflow]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

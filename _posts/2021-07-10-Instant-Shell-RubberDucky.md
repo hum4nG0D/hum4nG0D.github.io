@@ -4,7 +4,7 @@ description: "Get an install shell in less than 30 sec with a DIY RubberDucky."
 date: "2021-07-10"
 categories: [PoC]
 tags: [windows, rubberducky, red team, penetration testing, physical security]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

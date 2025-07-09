@@ -4,7 +4,7 @@ description: "Credential Disclosure via Attacker-Controlled Endpoint in IBM Clou
 date: "2025-04-01"
 categories: [PoC]
 tags: [Vulnerability, IBM, CP4D, Information Disclosure]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

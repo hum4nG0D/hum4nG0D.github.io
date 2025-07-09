@@ -4,7 +4,7 @@ description: "Transforming a 75-cent accounting error into a gripping, true-life
 date: "2025-05-09"
 categories: [Books]
 tags: [books, audiobooks, cybersecurity, espionage, hacking]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

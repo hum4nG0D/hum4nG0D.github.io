@@ -4,7 +4,7 @@ description: "Command-line ChatGPT Python Script Coded by ChatGPT"
 date: "2022-12-20"
 categories: [Lab]
 tags: [openai, chatgpt, python]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

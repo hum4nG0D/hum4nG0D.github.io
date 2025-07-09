@@ -4,7 +4,7 @@ description: "A reflection on Walter Isaacson’s biography of Steve Jobs and th
 date: "2023-02-21"
 categories: [Books]
 tags: [books, audiobooks]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

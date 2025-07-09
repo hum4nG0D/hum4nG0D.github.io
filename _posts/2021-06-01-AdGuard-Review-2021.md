@@ -4,7 +4,7 @@ description: "Simple but an app that actually works! Ad Blocking at it's best."
 date: 2021-06-01
 categories: [Review]
 tags: [adblocker]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

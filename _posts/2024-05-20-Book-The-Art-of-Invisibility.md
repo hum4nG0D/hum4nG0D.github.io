@@ -4,7 +4,7 @@ description: "What the world’s most famous hacker taught me about digital priv
 date: "2024-05-20"
 categories: [Books]
 tags: [books, audiobooks, anonymity, tor]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

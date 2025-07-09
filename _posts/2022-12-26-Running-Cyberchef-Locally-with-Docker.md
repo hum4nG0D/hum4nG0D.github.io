@@ -4,7 +4,7 @@ description: "Running Cyberchef Locally with Docker"
 date: "2022-12-26"
 categories: [Lab]
 tags: [cyberchef, linux, windows, docker, python]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

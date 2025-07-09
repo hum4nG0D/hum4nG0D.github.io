@@ -4,7 +4,7 @@ description: "What the FBI's most wanted hacker, Kevin Mitnick had to say and di
 date: "2024-04-12"
 categories: [Books]
 tags: [books, audiobooks, hacking, social engineering]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

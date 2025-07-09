@@ -4,7 +4,7 @@ description: "Browser rendering SSH, VNC and RDP sessions with Apache Guacamole.
 date: "2023-03-25"
 categories: [Lab]
 tags: [Apache Guacamole, Cloudron, Digitalocean, Cloudflare, Zero Trust, SSH, RDP, VNC]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

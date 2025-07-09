@@ -4,7 +4,7 @@ description: "Ditch the subscriptions—here’s how I use libraries (local and 
 date: "2024-03-20"
 categories: [Books]
 tags: [books, audiobooks, library, Libby]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

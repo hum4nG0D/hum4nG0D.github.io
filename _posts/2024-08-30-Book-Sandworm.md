@@ -4,7 +4,7 @@ description: "Sandworm by Andy Greenberg: Unmasking the Cyberwarfare That Change
 date: "2024-08-30"
 categories: [Books]
 tags: [books, audiobooks, cybersecurity]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

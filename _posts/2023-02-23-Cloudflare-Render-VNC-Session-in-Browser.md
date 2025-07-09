@@ -4,7 +4,7 @@ description: "Rendering VNC Session in a Browser with Cloudflare Access Zero Tru
 date: "2023-02-23"
 categories: [Lab]
 tags: [Cloudflare, VNC, Zero Trust]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

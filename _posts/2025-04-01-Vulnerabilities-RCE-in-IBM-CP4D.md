@@ -4,7 +4,7 @@ description: "Authenticated Remote Code Execution via JDBC Driver Upload in IBM 
 date: "2025-04-01"
 categories: [PoC]
 tags: [Vulnerability, RCE, IBM, CP4D]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

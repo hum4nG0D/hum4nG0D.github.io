@@ -4,7 +4,7 @@ description: "Stored Cross-Site Scripting (XSS) via SVG File Upload in IBM Cloud
 date: "2025-04-01"
 categories: [PoC]
 tags: [Vulnerability, XSS, IBM, CP4D]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

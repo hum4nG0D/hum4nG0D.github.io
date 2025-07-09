@@ -4,7 +4,7 @@ description: "Introduction to what this blog is about."
 date: "2020-11-10"
 categories: [Blog]
 tags: [introduction]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:
