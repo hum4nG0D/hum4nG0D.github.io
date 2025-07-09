@@ -1,16 +1,16 @@
 ---
-title: Introduction
-description: Introduction to what this blog is about.
-author: hum4ng0d
-date: 2020-11-10
+title: "Introduction"
+description: "Introduction to what this blog is about."
+author: "hum4ng0d"
+date: "2020-11-10"
 categories: [Blog]
 tags: [introduction]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/hola.png
-  alt: Hola
+  path: "/assets/img/hola.png"
+  alt: "Hola"
 ---
 
 ### hum4nG0D.github.io
