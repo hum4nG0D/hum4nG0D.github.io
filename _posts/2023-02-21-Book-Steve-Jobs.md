@@ -1,5 +1,5 @@
 ---
-title: Book: Steve Jobs by Walter Isaacson
+title: Steve Jobs by Walter Isaacson
 description: A reflection on Walter Isaacson’s biography of Steve Jobs and the powerful lessons it offers on passion, simplicity, and changing the world.
 author: hum4ng0d
 date: 2023-02-21

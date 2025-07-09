@@ -1,5 +1,5 @@
 ---
-title: Book: How to Read and Listen to Audiobooks for Free
+title: How to Read and Listen to Audiobooks for Free
 description: Ditch the subscriptions—here’s how I use libraries (local and international) to access thousands of books, audiobooks, and even Kindle titles for free.
 author: hum4ng0d
 date: 2024-03-20

@@ -1,5 +1,5 @@
 ---
-title: Book: The Cuckoo's Egg by Clifford Stoll
+title: The Cuckoo's Egg by Clifford Stoll
 description: ransforming a 75-cent accounting error into a gripping, true-life cyber-thriller that reveals the surprisingly human origins of digital espionage.
 author: hum4ng0d
 date: 2025-05-09

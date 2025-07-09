@@ -1,5 +1,5 @@
 ---
-title: Book: The Art of Invisibility by Kevin Mitnick
+title: The Art of Invisibility by Kevin Mitnick
 description: What the world’s most famous hacker taught me about digital privacy, online anonymity, and why it all matters more than ever.
 author: hum4ng0d
 date: 2024-05-20

@@ -1,5 +1,5 @@
 ---
-title: Vulnerability: RCE via JDBC Driver Connection in IBM CP4D
+title: RCE via JDBC Driver Connection in IBM CP4D
 description: Authenticated Remote Code Execution via JDBC Driver Upload in IBM Cloud Pak for Data (CP4D).
 author: hum4ng0d
 date: 2025-04-01

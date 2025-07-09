@@ -1,5 +1,5 @@
 ---
-title: Book: Cloudflare Project: Render VNC in Browser with Secure Access
+title: Cloudflare - Render VNC in Browser with Secure Access
 description: Rendering VNC Session in a Browser with Cloudflare Access Zero Trust Rules.
 author: hum4ng0d
 date: 2023-02-23

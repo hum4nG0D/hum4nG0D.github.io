@@ -1,5 +1,5 @@
 ---
-title: Book: Ghost In The Wire by Kevin Mitnick
+title: Ghost In The Wire by Kevin Mitnick
 description: What the FBI's most wanted hacker, Kevin Mitnick had to say and did the impossible.
 author: hum4ng0d
 date: 2024-04-12

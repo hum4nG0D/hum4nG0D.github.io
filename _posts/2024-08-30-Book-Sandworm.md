@@ -1,5 +1,5 @@
 ---
-title: Book: Sandworm
+title: Sandworm
 description: Sandworm by Andy Greenberg: Unmasking the Cyberwarfare That Changed Everything.
 author: hum4ng0d
 date: 2024-08-30

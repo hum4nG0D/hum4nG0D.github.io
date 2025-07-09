@@ -1,5 +1,5 @@
 ---
-title: Book: Guacamole Project: Browser Rendering SSH, VNC and RDP
+title: Guacamole - Browser Rendering SSH, VNC and RDP
 description: Browser rendering SSH, VNC and RDP sessions with Apache Guacamole.
 author: hum4ng0d
 date: 2023-03-25

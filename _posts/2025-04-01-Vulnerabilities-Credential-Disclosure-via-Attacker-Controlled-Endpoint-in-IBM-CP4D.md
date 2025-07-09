@@ -1,6 +1,6 @@
 ---
-title: Vulnerability: Credential Disclosure via Attacker-Controlled Endpoint in IBM Cloud Pak for Data (CP4D)
-description: ECredential Disclosure via Attacker-Controlled Endpoint in IBM Cloud Pak for Data (CP4D).
+title: Credential Disclosure via Attacker-Controlled Endpoint in IBM Cloud Pak for Data (CP4D)
+description: Credential Disclosure via Attacker-Controlled Endpoint in IBM Cloud Pak for Data (CP4D).
 author: hum4ng0d
 date: 2025-04-01
 categories: [Exploit, PoC]
