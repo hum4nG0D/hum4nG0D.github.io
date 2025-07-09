@@ -1,7 +1,6 @@
 ---
 title: "Introduction"
 description: "Introduction to what this blog is about."
-author: "hum4ng0d"
 date: "2020-11-10"
 categories: [Blog]
 tags: [introduction]
