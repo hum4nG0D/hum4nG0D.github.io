@@ -1,16 +1,15 @@
 ---
-title: Creating A $3 DIY RubberDucky
-description: Using DigiSpark's ATtiny85 to create an effective RubberDucky.
-author: hum4ng0d
+title: "Creating A $3 DIY RubberDucky"
+description: "Using DigiSpark's ATtiny85 to create an effective RubberDucky."
 date: 2021-06-22
-categories: [Exploit, PoC]
-tags: [windows, mac, linux, rubberducky, red team, penetration testing]
+categories: [PoC]
+tags: [windows, rubberducky, red team, penetration testing, physical security]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/rubberducky/rubberducky.png
-  alt: Creating $3 DIY RubberDucky
+  path: "/assets/img/rubberducky/rubberducky.png"
+  alt: "Creating $3 DIY RubberDucky"
 ---
 
 Creating a disposable DIY rubberducky for your Red Team engagement or at least testing out what you can achieve with 1 minute of physical access to the computer. This is the first post of a DIY series. Hopefully, I will be able to create subsequence posts around DIY rubberducky. In this section, I will be going through the setup and where you can get ATtiny85.

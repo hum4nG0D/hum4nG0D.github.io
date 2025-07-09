@@ -1,16 +1,15 @@
 ---
-title: The Cuckoo's Egg by Clifford Stoll
-description: ransforming a 75-cent accounting error into a gripping, true-life cyber-thriller that reveals the surprisingly human origins of digital espionage.
-author: hum4ng0d
-date: 2025-05-09
+title: "The Cuckoo's Egg by Clifford Stoll"
+description: "Transforming a 75-cent accounting error into a gripping, true-life cyber-thriller that reveals the surprisingly human origins of digital espionage."
+date: "2025-05-09"
 categories: [Books]
-tags: [books, audiobooks, The Cuckoo's Egg, cybersecurity, espionage, hacker]
+tags: [books, audiobooks, cybersecurity, espionage, hacking]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/cuckoosegg/cuckoosegg.png
-  alt: The Cuckoo's Egg
+  path: "/assets/img/cuckoosegg/cuckoosegg.png"
+  alt: "The Cuckoo's Egg"
 ---
 
 

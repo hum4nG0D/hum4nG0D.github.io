@@ -1,16 +1,15 @@
 ---
-title: The Art of Invisibility by Kevin Mitnick
-description: What the world’s most famous hacker taught me about digital privacy, online anonymity, and why it all matters more than ever.
-author: hum4ng0d
-date: 2024-05-20
+title: "The Art of Invisibility by Kevin Mitnick"
+description: "What the world’s most famous hacker taught me about digital privacy, online anonymity, and why it all matters more than ever."
+date: "2024-05-20"
 categories: [Books]
 tags: [books, audiobooks, anonymity, tor]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/invisibility/invisibility.png
-  alt: Invisibility
+  path: "/assets/img/invisibility/invisibility.png"
+  alt: "Invisibility"
 ---
 
 ### What I Learned from *The Art of Invisibility*

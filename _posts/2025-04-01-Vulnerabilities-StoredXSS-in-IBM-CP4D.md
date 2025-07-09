@@ -1,16 +1,15 @@
 ---
-title: Stored XSS via SVG Upload in IBM CP4D and Event Stream
-description: Stored Cross-Site Scripting (XSS) via SVG File Upload in IBM Cloud Pak for Data and IBM Event Streams.
-author: hum4ng0d
-date: 2025-04-01
-categories: [Exploit, PoC]
-tags: [Vulnerability, XSS, Stored XSS, IBM, CP4D, Cloud Pak For Data, IBM Event Stream]
+title: "Stored XSS via SVG Upload in IBM CP4D and Event Stream"
+description: "Stored Cross-Site Scripting (XSS) via SVG File Upload in IBM Cloud Pak for Data and IBM Event Streams."
+date: "2025-04-01"
+categories: [PoC]
+tags: [Vulnerability, XSS, IBM, CP4D]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/cp4d/ibm-cp4d.png
-  alt: CP4D RCE
+  path: "/assets/img/cp4d/ibm-cp4d.png"
+  alt: "CP4D Stored XSS"
 ---
 
 ### **Disclosure Context:**

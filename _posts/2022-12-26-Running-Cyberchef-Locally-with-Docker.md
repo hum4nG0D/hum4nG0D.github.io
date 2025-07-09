@@ -1,16 +1,15 @@
 ---
-title: Running Cyberchef Locally with Docker
-description: Running Cyberchef Locally with Docker
-author: hum4ng0d
-date: 2022-12-26
-categories: [Lab, Project]
-tags: [command line, cyberchef, linux, windows, docker, python]
+title: "Running Cyberchef Locally with Docker"
+description: "Running Cyberchef Locally with Docker"
+date: "2022-12-26"
+categories: [Lab]
+tags: [cyberchef, linux, windows, docker, python]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/cyberchef/cyberchef.png
-  alt: Cyberchef
+  path: "/assets/img/cyberchef/cyberchef.png"
+  alt: "Cyberchef"
 ---
 
 Cyberchef is a go-to tool for me and it has been for a good reason. It's easily accessible via the web by just simply going to [https://cyberchef.org](https://cyberchef.org). 

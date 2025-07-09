@@ -1,16 +1,15 @@
 ---
-title: Cloudflare - Render VNC in Browser with Secure Access
-description: Rendering VNC Session in a Browser with Cloudflare Access Zero Trust Rules.
-author: hum4ng0d
-date: 2023-02-23
-categories: [Lab, Project]
-tags: [Cloudflare, Cloudflare DNS, Cloudflare Access, VNC, VNC in Browser]
+title: "Cloudflare: Render VNC in Browser with Secure Access"
+description: "Rendering VNC Session in a Browser with Cloudflare Access Zero Trust Rules."
+date: "2023-02-23"
+categories: [Lab]
+tags: [Cloudflare, VNC, Zero Trust]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/cloudflare-vnc/rendervnc.png
-  alt: Cloudflare VNC Render in Browser
+  path: "/assets/img/cloudflare-vnc/rendervnc.png"
+  alt: "Cloudflare VNC Render in Browser"
 ---
 
 ## Free Cloudflare Tools for a Powerful Remote Desktop Setup

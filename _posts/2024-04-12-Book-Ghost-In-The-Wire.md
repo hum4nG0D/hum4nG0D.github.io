@@ -1,16 +1,15 @@
 ---
-title: Ghost In The Wire by Kevin Mitnick
-description: What the FBI's most wanted hacker, Kevin Mitnick had to say and did the impossible.
-author: hum4ng0d
-date: 2024-04-12
+title: "Ghost In The Wire by Kevin Mitnick"
+description: "What the FBI's most wanted hacker, Kevin Mitnick had to say and did the impossible."
+date: "2024-04-12"
 categories: [Books]
 tags: [books, audiobooks, hacking, social engineering]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/ghostwire/wire.png
-  alt: Ghost in the Wire
+  path: "/assets/img/ghostwire/wire.png"
+  alt: "Ghost in the Wire"
 ---
 
 When people think of hackers, they often imagine shadowy figures in dark rooms typing lines of code to infiltrate massive systems. But few stories capture the human side of hacking quite like Kevin Mitnick's *Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker*. Reading it felt like binge-watching a fast-paced thriller except everything in this story actually happened.

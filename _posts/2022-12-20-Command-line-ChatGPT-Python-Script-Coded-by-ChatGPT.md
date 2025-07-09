@@ -1,16 +1,15 @@
 ---
-title: Command-line ChatGPT Python Script Coded by ChatGPT
-description: Command-line ChatGPT Python Script Coded by ChatGPT
-author: hum4ng0d
-date: 2022-12-20
-categories: [Lab, Project]
-tags: [command line, openai, chatgpt, python]
+title: "Command-line ChatGPT Python Script Coded by ChatGPT"
+description: "Command-line ChatGPT Python Script Coded by ChatGPT"
+date: "2022-12-20"
+categories: [Lab]
+tags: [openai, chatgpt, python]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/chatgpt/chatgpt.jpg
-  alt: ChatGPT
+  path: "/assets/img/chatgpt/chatgpt.jpg"
+  alt: "ChatGPT"
 ---
 
 ChatGPT is a variant of the popular language model GPT (Generative Pre-trained Transformer) that has been specifically designed for chatbot applications. It is capable of generating human-like responses to text input, making it a useful tool for building chatbots and virtual assistants.

@@ -1,16 +1,15 @@
 ---
-title: DIY RubberDucky Instant Shell
-description: Get an install shell in less than 30 sec with a DIY RubberDucky.
-author: hum4ng0d
-date: 2021-07-10
-categories: [Exploit, PoC]
-tags: [windows, mac, linux, rubberducky, shell, red team, penetration testing]
+title: "DIY RubberDucky Instant Shell"
+description: "Get an install shell in less than 30 sec with a DIY RubberDucky."
+date: "2021-07-10"
+categories: [PoC]
+tags: [windows, rubberducky, red team, penetration testing, physical security]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/rubberducky/rubberducky.png
-  alt: DIY RubberDucky
+  path: "/assets/img/rubberducky/rubberducky.png"
+  alt: "DIY RubberDucky"
 ---
 
 In the previous post, I've walked through how to set up a DIY RubberDucky. In this post, I'll walk through how you can get a shell access in less than 1 minute.

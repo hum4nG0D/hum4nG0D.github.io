@@ -1,16 +1,15 @@
 ---
-title: DIY RubberDucky Wifi Passwords Stealer
-description: Steal Wifi passwords with a DIY RubberDucky.
-author: hum4ng0d
-date: 2021-08-02
-categories: [Exploit, PoC]
-tags: [windows, mac, linux, rubberducky, Wifi password, red team, penetration testing]
+title: "DIY RubberDucky Wifi Passwords Stealer"
+description: "Steal Wifi passwords with a DIY RubberDucky."
+date: "2021-08-02"
+categories: [PoC]
+tags: [windows, rubberducky, Wifi, red team, penetration testing, physical security]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/rubberducky/rubberducky.png
-  alt: DIY RubberDucky
+  path: "/assets/img/rubberducky/rubberducky.png"
+  alt: "DIY RubberDucky"
 ---
 
 In this post, I'll walk through how you can steal Wifi passwords with a DIY RubberDucky and send over to a webhook address. This payload will only work with internet access. You can have a local listener setup but that's totally up to you. I'll be using payload from [MTK911](https://github.com/MTK911/Attiny85/tree/master/payloads).<br>

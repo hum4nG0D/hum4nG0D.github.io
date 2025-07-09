@@ -1,16 +1,15 @@
 ---
-title: Sandworm
-description: Sandworm by Andy Greenberg - Unmasking the Cyberwarfare That Changed Everything.
-author: hum4ng0d
-date: 2024-08-30
+title: "Sandworm"
+description: "Sandworm by Andy Greenberg: Unmasking the Cyberwarfare That Changed Everything."
+date: "2024-08-30"
 categories: [Books]
-tags: [books, audiobooks, sandworm, cybersecurity]
+tags: [books, audiobooks, cybersecurity]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/sandworm/sandworm.png
-  alt: Sandworm
+  path: "/assets/img/sandworm/sandworm.png"
+  alt: "Sandworm"
 ---
 
 In *Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers*, Andy Greenberg peels back the layers of one of the most terrifying and consequential cyber campaigns in history. With journalistic precision and gripping storytelling, Greenberg introduces readers to the murky world of cyberwarfare where lines blur between espionage, sabotage, and outright acts of war. This is not just a tech book; it’s a geopolitical thriller with real-world consequences.

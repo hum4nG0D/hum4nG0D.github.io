@@ -1,16 +1,15 @@
 ---
-title: AdGuard Review 2021
-description: Simple but an app that actually works! Ad Blocking at it's best.
-author: hum4ng0d
+title: "AdGuard Review 2021"
+description: "Simple but an app that actually works! Ad Blocking at it's best."
 date: 2021-06-01
 categories: [Review]
-tags: [windows, mac, mobile, adblocker]
+tags: [adblocker]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/adguard_review/banner.png
-  alt: AdGuard Review 2021
+  path: "/assets/img/adguard_review/banner.png"
+  alt: "AdGuard Review 2021"
 ---
 
 As a person who never really is a fan of ads, I have been trying to use all sorts of ad blocking softwares from in browser extension to standalone apps. For the most part, they are a hit or miss. I just want to read an article sometimes or I just want to play a short video clip but then all kinds of ads flying around the site and shouting it to my face. I don't mind supporting content creators but it's just getting out of hand most of the time. 

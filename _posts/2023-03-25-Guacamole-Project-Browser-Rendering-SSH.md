@@ -1,16 +1,15 @@
 ---
-title: Guacamole - Browser Rendering SSH, VNC and RDP
-description: Browser rendering SSH, VNC and RDP sessions with Apache Guacamole.
-author: hum4ng0d
-date: 2023-03-25
-categories: [Lab, Project]
-tags: [Apache Guacamole, Cloudron, Digitalocean, Cloudflare, Cloudflare Zero Trust, SSH, RDP, VNC]
+title: "Guacamole: Browser Rendering SSH, VNC and RDP"
+description: "Browser rendering SSH, VNC and RDP sessions with Apache Guacamole."
+date: "2023-03-25"
+categories: [Lab]
+tags: [Apache Guacamole, Cloudron, Digitalocean, Cloudflare, Zero Trust, SSH, RDP, VNC]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/guacamole/guacamole.png
-  alt: Apache Guacamole
+  path: "/assets/img/guacamole/guacamole.png"
+  alt: "Apache Guacamole"
 ---
 
 I recently tried out [Apache Guacamole](https://guacamole.apache.org/) to enable browser-based rendering of SSH, RDP, and VNC sessions, and here’s how I made it all work seamlessly with Cloudron, Cloudflare, and a DigitalOcean VM.

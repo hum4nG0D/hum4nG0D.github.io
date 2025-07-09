@@ -1,16 +1,15 @@
 ---
-title: Steve Jobs by Walter Isaacson
-description: A reflection on Walter Isaacson’s biography of Steve Jobs and the powerful lessons it offers on passion, simplicity, and changing the world.
-author: hum4ng0d
-date: 2023-02-21
+title: "Steve Jobs by Walter Isaacson"
+description: "A reflection on Walter Isaacson’s biography of Steve Jobs and the powerful lessons it offers on passion, simplicity, and changing the world."
+date: "2023-02-21"
 categories: [Books]
-tags: [books, audiobooks, Steve Jobs, reality distortion, simplicity, visionary]
+tags: [books, audiobooks]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/stevejobs/stevejobs.png
-  alt: Stevejobs
+  path: "/assets/img/stevejobs/stevejobs.png"
+  alt: "Steve Jobs"
 ---
 
 ### **Walter Isaacson’s Biography**

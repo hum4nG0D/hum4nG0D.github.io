@@ -1,16 +1,15 @@
 ---
-title: How to Read and Listen to Audiobooks for Free
-description: Ditch the subscriptions—here’s how I use libraries (local and international) to access thousands of books, audiobooks, and even Kindle titles for free.
-author: hum4ng0d
-date: 2024-03-20
+title: "How to Read and Listen to Audiobooks for Free"
+description: "Ditch the subscriptions—here’s how I use libraries (local and international) to access thousands of books, audiobooks, and even Kindle titles for free."
+date: "2024-03-20"
 categories: [Books]
-tags: [books, audiobooks, library, free, Libby]
+tags: [books, audiobooks, library, Libby]
 pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/libby/libby.png
-  alt: Libby
+  path: "/assets/img/libby/libby.png"
+  alt: "Libby"
 ---
 
 If you’ve been wanting to read more books or get into audiobooks but the cost is holding you back. Good news: you *don’t* have to spend a dime. Forget about expensive audiobook subscriptions or buying paperback books outright (unless that’s your thing). There’s a much better way, and it’s all *completely free*.
