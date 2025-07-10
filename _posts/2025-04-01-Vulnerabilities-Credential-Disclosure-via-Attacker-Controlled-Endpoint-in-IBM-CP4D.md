@@ -45,7 +45,7 @@ A **credential disclosure vulnerability** exists in IBM Cloud Pak for Data, spec
 
 ------
 
-### **Steps to **Reproduce:
+### **Steps to Reproduce:**
 
 1. Log in as a user with **“Editor” role** access in a project
 2. Navigate to: Project > Data access > Connections
@@ -60,7 +60,7 @@ A **credential disclosure vulnerability** exists in IBM Cloud Pak for Data, spec
 
 ------
 
-### **Vulnerability **Type:
+### **Vulnerability Type:**
 
 - **CWE-522**: Insufficiently Protected Credentials
 - **CWE-441**: Unintended Proxy or Credential Forwarding

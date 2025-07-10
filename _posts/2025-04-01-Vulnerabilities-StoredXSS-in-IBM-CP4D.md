@@ -79,7 +79,7 @@ A **stored cross-site scripting (XSS)** vulnerability exists in the **Customizat
 
 ------
 
-### **Vulnerability **Type:
+### **Vulnerability Type:**
 
 - **CWE-79**: Improper Neutralization of Input During Web Page Generation (‘Cross-site Scripting’)
 - **CWE-434**: Unrestricted Upload of File with Dangerous Type
