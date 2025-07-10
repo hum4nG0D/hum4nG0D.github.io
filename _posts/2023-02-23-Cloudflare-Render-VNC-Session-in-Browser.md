@@ -1,5 +1,5 @@
 ---
-title: "Cloudflare: Render VNC in Browser with Secure Access"
+title: "Cloudflare Access: Render VNC in Browser with Secure Access"
 description: "Rendering VNC Session in a Browser with Cloudflare Access Zero Trust Rules."
 date: "2023-02-23"
 categories: [Lab]

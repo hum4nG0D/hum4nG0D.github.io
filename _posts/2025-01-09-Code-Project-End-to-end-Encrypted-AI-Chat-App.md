@@ -1,5 +1,5 @@
 ---
-title: "Building a Covert AI Chat App"
+title: "Cloudflare Pages: Building a Covert AI Chat App"
 description: "Building a Covert AI Chat App: End-to-End Encrypted Gemini Chat hosted on Cloudflare Pages."
 date: "2025-01-09"
 categories: [Lab]
