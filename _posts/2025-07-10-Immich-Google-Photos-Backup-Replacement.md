@@ -116,6 +116,8 @@ Once running, visit:
 Download the Immich mobile app from your app store and start syncing.  
 Note: Large libraries may take several hours to process.
 
+![Immich Mobile Setup](/assets/img/immich/immich-mobile.png)
+
 ---
 
 ## Set Up Cloudflare Tunnel (Secure Remote Access)
@@ -191,6 +193,8 @@ To automatically switch between local and remote access on the mobile app:
 1. Open the app
 2. Go to **Settings → Networking**
 3. Configure local and public domains
+
+![Immich Mobile Setup](/assets/img/immich/immich-mobilesetup.png)
 
 ---
 
