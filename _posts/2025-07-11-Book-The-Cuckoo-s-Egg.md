@@ -1,7 +1,7 @@
 ---
 title: "The Cuckoo's Egg by Clifford Stoll"
 description: "Transforming a 75-cent accounting error into a gripping, true-life cyber-thriller that reveals the surprisingly human origins of digital espionage."
-date: "2025-05-09"
+date: "2025-07-15"
 categories: [Books]
 tags: [books, audiobooks, cybersecurity, espionage, hacking]
 pin: false
