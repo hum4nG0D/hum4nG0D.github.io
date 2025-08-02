@@ -116,7 +116,7 @@ Once running, visit:
 Download the Immich mobile app from your app store and start syncing.  
 Note: Large libraries may take several hours to process.
 
-![Immich Mobile Setup](/assets/img/immich/immich-mobile.png)
+![Immich Mobile Setup](/assets/img/immich/immich-mobile-display.png)
 
 ---
 
@@ -184,6 +184,8 @@ In Immich:
 
 ![Cloudflare OIDC Setup](/assets/img/immich/cloudflare-login.png)
 
+![Cloudflare OIDC Setup](/assets/img/immich/immich-web.png)
+
 ---
 
 # Setting up automatic URL switching
@@ -194,7 +196,7 @@ To automatically switch between local and remote access on the mobile app:
 2. Go to **Settings → Networking**
 3. Configure local and public domains
 
-![Immich Mobile Setup](/assets/img/immich/immich-mobilesetup.png)
+![Immich Mobile Setup](/assets/img/immich/immich-mobile-networking.png)
 
 ---
 
