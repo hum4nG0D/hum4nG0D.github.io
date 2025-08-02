@@ -1,6 +1,6 @@
 ---
-title: "Immich: Self-hosted Google Photos Backup Replacement"
-description: "A photo backup solution that is free and you can do self-hosted at home. Combining with Cloudflare Access, you can sync from anywhere."
+title: "Immich: A Free Self-hosted Google Photos Backup Replacement"
+description: "A free photo backup solution that is free and you can do self-hosted at home. Combining with Cloudflare Access, you can sync from anywhere."
 date: "2025-07-10"
 categories: [Lab]
 tags: [Photos, Cloudflare Access, Backup, Home Lab]
@@ -14,7 +14,7 @@ image:
 
 ## Self-Hosting Immich with Cloudflare Access: Sync Photos Securely from Anywhere
 
-If you're looking for a powerful self-hosted photo and video management platform that offers real-time syncing, AI-powered tagging, and mobile app support, **Immich** is the best choice in 2025. But what makes it even better? Combine it with **Cloudflare Tunnels** and **Zero Trust Access** to securely sync photos from anywhere—without opening a single port on your router.
+If you're looking for a powerful self-hosted photo and video management platform that offers real-time syncing, AI-powered tagging, and mobile app support and for *free*, **Immich** is the best choice in 2025. But what makes it even better? Combine it with **Cloudflare Tunnels** and **Zero Trust Access** to securely sync photos from anywhere—without opening a single port on your router.
 
 In this post, I’ll walk you through setting up Immich on Docker, mounting an external photo drive, and enabling secure remote access using Cloudflare.
 
