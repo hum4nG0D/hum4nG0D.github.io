@@ -14,7 +14,7 @@ image:
 
 ### **Disclosure Context:**
 
-This vulnerability was **responsibly reported to IBM during a security assessment in April 2023**. Despite multiple attempts to coordinate, **IBM has not acknowledged or issued a CVE ID after more than two years**.
+This vulnerability was **responsibly reported to IBM during a security assessment in April 2023**. Despite multiple attempts to coordinate, **IBM has not issued a CVE ID after more than two years**.
 
 Given the extended delay and the lack of response from IBM, this disclosure is being published **publicly and de-anonymized** in accordance with standard responsible disclosure practices to raise awareness and enable remediation.
 
