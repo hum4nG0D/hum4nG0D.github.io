@@ -1,5 +1,5 @@
 ---
-title: "Sandworm"
+title: "Sandworm by Andy Greenberg"
 description: "Sandworm by Andy Greenberg: Unmasking the Cyberwarfare That Changed Everything."
 date: "2024-08-30"
 categories: [Books]

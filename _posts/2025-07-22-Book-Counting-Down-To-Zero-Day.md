@@ -1,5 +1,5 @@
 ---
-title: "Counting Down to Zero Day"
+title: "Counting Down to Zero Day by Kim Zetter"
 description: "From Code to Conflict: Reflections on Counting Down to Zero Day and the Dawn of Cyber Warfare."
 date: "2025-07-22"
 categories: [Books]
