@@ -31,9 +31,9 @@ Given the extended delay and the lack of response from IBM, this disclosure is b
 
 ### **Affected Product:**
 
-Application: **IBM Cloud Pak for Data (CP4D)**
-
-Tested Version: **4.6.1**
+| Application               | Tested Version |
+|---------------------------|----------------|
+| IBM Cloud Pak for Data    | 4.6.1          |
 
 Other versions may also be affected.
 
